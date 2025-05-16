@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Harun Abdi
 
-I'm a passionate **full-stack developer** with a background in software engineering and nearly two years of hands-on experience working on impactful and scalable software projects. I’m driven by curiosity and always eager to explore new technologies and solve meaningful problems.
+I'm a passionate **full-stack developer** with a background in software engineering and 2 years of hands-on experience working on impactful and scalable software projects. I’m driven by curiosity and always eager to explore new technologies and solve meaningful problems.
 
 ---
 
