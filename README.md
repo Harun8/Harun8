@@ -36,3 +36,7 @@ I'm a passionate **full-stack developer** with a background in software engineer
 - 🔍 Currently open to job opportunities – feel free to reach out!
 
 ---
+
+## 🤝 Connect with Me
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/harun-abdi)
