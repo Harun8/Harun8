@@ -20,7 +20,7 @@ I'm a passionate **full-stack developer** with a background in software engineer
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On [outdated will be updated in due time]
 
 - **[Dovento.app](https://dovento.app)** – Leading the development of the web version of this app, serving over 3000 users.
 - **[AskPDFs.io](https://www.askpdfs.io/)** – An AI-powered tool that lets users upload PDF files and chat with them
@@ -33,8 +33,9 @@ I'm a passionate **full-stack developer** with a background in software engineer
 
 - 📍 Based in Denmark  
 - 🧑🏽‍🏫  Board member & Volunteer at Coding Pirates – teaching kids how to code and build with tech  
-- 🔍 Currently open to job opportunities – feel free to reach out!
-
+<!--
+- 🔍  Currently open to job opportunities – feel free to reach out!
+-->
 ---
 
 ## 🤝 Connect with Me
