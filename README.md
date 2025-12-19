@@ -24,7 +24,7 @@ I'm a passionate **full-stack developer** with a background in software engineer
 
 - **[Dovento.app](https://dovento.app)** – Leading the development of the web version of this app, serving over 3000 users.
 - **[AskPDFs.io](https://www.askpdfs.io/)** – An AI-powered tool that lets users upload PDF files and chat with them
-- **Open Source Projects** – Including [Exifm](https://www.npmjs.com/package/exifm), a handy npm package for manipulating EXIF data in JPEG images.
+- **Other Projects** – Including [Exifm](https://www.npmjs.com/package/exifm), a handy npm package for manipulating EXIF data in JPEG images.
 - **Technical Writing** – Wrote [this article](https://medium.com/@harunabdi8/mitigating-ftp-security-vulnerabilities-with-inotify-on-linux-5bb186a3c358) on improving legacy FTP security using inotify on Linux.
 
 ---
