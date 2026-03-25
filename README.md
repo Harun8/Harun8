@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Harun Abdi
+# 👋 Hi, I'm Harun Abdi -- OUTDATED VISIT HARUN.TECH FOR MORE 
 
 I'm a passionate **full-stack developer** with a background in software engineering and 2+ years of hands-on experience working on impactful and scalable software projects. I’m driven by curiosity and always eager to explore new technologies and solve meaningful problems.
 
