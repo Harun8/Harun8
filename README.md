@@ -33,4 +33,3 @@ I also publish smaller open-source utilities like [`exifm`](https://www.npmjs.co
 ## Contact me
 
 - Portfolio: [harun.tech](https://harun.tech)
-- Company: [omika.dk](https://omika.dk)
