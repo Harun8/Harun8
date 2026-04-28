@@ -1,43 +1,38 @@
+# 👋 Hi, I'm Harun
 
+I'm a software engineer and founder based in Copenhagen, building AI-powered products and tools at [`Omika`](https://omika.dk). I've been shipping software for a long time, and these days I split my time between my own products and select consulting work.
 
-<!--
-**Harun8/Harun8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the maker of [`askpdfs.io`](https://askpdfs.io), a RAG-based PDF chat SaaS I've been iterating on for ~3 years. It's where I do most of my hands-on work with retrieval pipelines, model routing, and the messy reality of running an AI product at scale — balancing latency, cost, and quality across providers like Claude, GPT, and Gemini.
 
-Here are some ideas to get you started:
+I'm also building [`Veya`](https://veya.app), a personal iOS fitness coaching app written in Swift/SwiftUI. It pulls signal from HealthKit, Strava, and Hevy and uses Claude as the AI layer to turn that into actually useful coaching — built for athletes who want structured feedback, not generic advice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Harun Abdi -- OUTDATED VISIT HARUN.TECH FOR MORE 
+On the side I run [`Wield.gg`](https://wield.gg), a CS2 skin trading platform with Steam bot integration, and [`BilligBid`](https://billigbid.dk), a Danish food waste app on iOS and Android that helps people find discounted groceries before they're thrown out.
 
-I'm a passionate **full-stack developer** with a background in software engineering and 2+ years of hands-on experience working on impactful and scalable software projects. I’m driven by curiosity and always eager to explore new technologies and solve meaningful problems.
+## Favorite tools and tech
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+</p>
 
-## 🚀 What I'm Working On [outdated will be updated in due time]
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiftui/swiftui-original.svg" width="40" height="40" alt="SwiftUI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+</p>
 
-- **[Dovento.app](https://dovento.app)** – Leading the development of the web version of this app, serving over 3000 users.
-- **[AskPDFs.io](https://www.askpdfs.io/)** – An AI-powered tool that lets users upload PDF files and chat with them
-- **Other Projects** – Including [Exifm](https://www.npmjs.com/package/exifm), a handy npm package for manipulating EXIF data in JPEG images.
-- **Technical Writing** – Wrote [this article](https://medium.com/@harunabdi8/mitigating-ftp-security-vulnerabilities-with-inotify-on-linux-5bb186a3c358) on improving legacy FTP security using inotify on Linux.
+## Contact me
 
----
-
-## 💡 About Me
-
-- 📍 Based in Denmark  
-- 🧑🏽‍🏫  Board member & Volunteer at Coding Pirates – teaching kids how to code and build with tech  
-<!--
-- 🔍  Currently open to job opportunities – feel free to reach out!
--->
----
-
-## 🤝 Connect with Me
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/harun-abdi)
+- Portfolio: [harun.tech](https://harun.tech)
+- Company: [omika.dk](https://omika.dk)
