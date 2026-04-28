@@ -14,15 +14,21 @@ I also publish smaller open-source utilities like [`exifm`](https://www.npmjs.co
 
 **Languages & frameworks**
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></p>
+| ![TS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![RN](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Node](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg) | ![npm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+|---|---|---|---|---|---|---|---|
+| TS | JS | React | RN | Node | Vite | npm | Git |
 
 **Databases & infrastructure**
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />&nbsp;<img src="https://www.hetzner.com/assets/Uploads/Logo_Hetzner_rgb.svg" height="40" alt="Hetzner" /></p>
+| ![PG](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Mongo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![Supabase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg) | ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) | ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) |
+|---|---|---|---|---|---|
+| Postgres | SQL | MongoDB | Supabase | Redis | Azure |
 
 **AI / ML**
 
-<p align="left"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="40" height="40" alt="LangChain" />&nbsp;<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="40" height="40" alt="LangGraph" />&nbsp;<img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" height="40" alt="RAG" />&nbsp;<img src="https://img.shields.io/badge/OCR-2C2C2C?style=for-the-badge&logoColor=white" height="40" alt="OCR" /></p>
+| ![LangChain](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png) | ![LangGraph](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png) | ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square) | ![OCR](https://img.shields.io/badge/OCR-2C2C2C?style=flat-square) |
+|---|---|---|---|
+| LangChain | LangGraph | RAG | OCR |
 
 ## Contact me
 
